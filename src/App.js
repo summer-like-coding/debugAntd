@@ -1,6 +1,5 @@
 import './App.css';
-import { Button } from 'antd'
-// import 'antd/dist/antd.css'
+import { Button } from 'antd/dist/antd';
 function App() {
   return (
     <div className='App'>
